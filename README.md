@@ -35,9 +35,22 @@ zamonaviy boshqaruv panelida birlashtirilgan.
 
 ---
 
+## 📥 Yuklab olish
+
+Eng so‘nggi tayyor fayllar: **[Releases](https://github.com/alisheusmonov75-dotcom/SmartEYE/releases/latest)**
+
+| Fayl | Nima uchun |
+|------|------------|
+| **SmartEYE-Setup-*.exe** | To‘liq o‘rnatuvchi (Server yoki Client tanlash) |
+| **SmartEYE-*-portable.zip** | O‘rnatuvchisiz — `smarteye.exe` ni ochib ishlatish |
+
+> Agar Release hali chiqmagan bo‘lsa, bir necha daqiqadan so‘ng sahifani yangilang — `v*` tegi GitHub Actions orqali avtomatik yig‘adi.
+
+---
+
 ## 🚀 O'rnatish
 
-1. `SmartEYE-Setup.exe` ni ishga tushiring.
+1. [Yuklab oling](https://github.com/alisheusmonov75-dotcom/SmartEYE/releases/latest) — `SmartEYE-Setup.exe` ni ishga tushiring.
 2. **Server** yoki **Client** rolini tanlang.
 3. Server avtomatik **tarmoq kodi** yaratadi (masalan `482913`). Uni yozib oling.
 4. Har bir client kompyuterda o'sha kodni kiriting — tamom.
